@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch.Bus
+namespace CleanArch.Infra.Bus
 {
     public sealed class InMemoryBus : IMediatorHandler
     {
